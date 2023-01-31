@@ -21,6 +21,7 @@ public:
 	}
 };
 
+
 int main()
 {
 	Box textBox = { 2, 10, 30 };
